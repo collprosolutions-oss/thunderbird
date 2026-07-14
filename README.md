@@ -1,6 +1,8 @@
-# Thunderbird Roofing and Renovations
+# Thunderbird Construction & Renovation Ltd.
 
-Marketing website for Thunderbird Roofing and Renovations — roofing, renovations, and free estimate requests.
+Marketing website for Thunderbird Construction & Renovation Ltd. — roofing, siding, framing, and renovations.
+
+**Phone:** [506-232-7045](tel:+15062327045)
 
 ## Develop
 
@@ -16,8 +18,8 @@ npm run build
 npm run preview
 ```
 
-## Stack
+## Brand notes
 
-- Vite + React
-- Framer Motion for scroll and entrance motion
-- Google Fonts: Bebas Neue, Fraunces, Outfit
+- Navy / lightning yellow / red from the company flyer
+- Slogan: Quality Work. Built to Last.
+- Highlights: 15-year workmanship warranty, bilingual service
